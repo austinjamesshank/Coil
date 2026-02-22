@@ -1,1 +1,0 @@
-# Marks the Core directory as a Python package.
